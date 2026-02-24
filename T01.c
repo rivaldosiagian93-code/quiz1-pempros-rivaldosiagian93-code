@@ -16,6 +16,7 @@ int main() {
     long total_harga = 0;
     char input_kode[10];
     
+    
     while (1) {
         // Menerima input kode menu
         scanf("%s", input_kode);
